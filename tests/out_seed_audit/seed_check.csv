@@ -1,0 +1,10 @@
+Protocol,Result,Model seeds,Seeds,OK
+P10/P11,ss_res,5,"0, 1, 42, 77, 4700",True
+P11,sens,5,"0, 1, 42, 77, 4700",True
+P12,fx_res,5,"0, 1, 42, 77, 4700",True
+P13,fcm_res,5,"0, 1, 42, 77, 4700",True
+P14,val_res,5,"0, 1, 42, 77, 4700",True
+P15,modal_res,5,"0, 1, 42, 77, 4700",True
+P16,fmm_res,5,"0, 1, 42, 77, 4700",True
+P18,cres,5,"0, 1, 42, 77, 4700",True
+P20,rulss_res,5,"0, 1, 42, 77, 4700",True

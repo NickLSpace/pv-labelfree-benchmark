@@ -1,0 +1,10 @@
+Result,Status,meta seeds,frames with seeds,min seeds per method,short
+P10/P11 ss_res,CHECK,5,8,2.0,"background: ['0', '42', '4700', '77']; labels: ['0', '1']"
+P11 sens,ok,5,2,5.0,
+P12 fx_res,ok,5,17,5.0,
+P13 fcm_res,ok,5,12,5.0,
+P14 val_res,ok,5,38,5.0,
+P15 modal_res,ok,5,60,5.0,
+P16 fmm_res,ok,5,84,5.0,
+P18 cres,ok,5,6,5.0,
+P20 rulss_res,ok,5,0,,
